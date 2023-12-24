@@ -22,6 +22,6 @@ function App() {
       <Modal />
     </React.Fragment>
   );
-}
+  }
 
 export default App;
